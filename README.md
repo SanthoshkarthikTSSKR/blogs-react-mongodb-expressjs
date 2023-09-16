@@ -1,7 +1,7 @@
 Added CodeExplanation word document
 
 **BackEnd:**
-1. Technologies: MongoDB, ExpressJS, NodeJS
+1. Technologies: MongoDB, ExpressJS, NodeJS, Tailwind CSS - Flowbite
 2. Blog.js – Create schema for our Database
 3. Blogs.js – Create router for CRUD operations, it will look for get, post, delete operations from FE.
 4. Perform logics required by FE and send the response.
